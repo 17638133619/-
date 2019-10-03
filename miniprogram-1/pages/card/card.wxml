@@ -9,7 +9,7 @@
     </navigator>
     <navigator url="../card-2/card-2">
     <view class="journal">
-      <view class="img"><image src="../../images/4.jpg"></image></view>
+      <view class="img"><image src="../../images/1.jpg"></image></view>
       <view class="nal">微店+</view>
       <view class="master">这里有你常逛的微店</view>
       <view class="foot"></view>

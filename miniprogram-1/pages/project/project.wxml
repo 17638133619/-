@@ -1,6 +1,6 @@
 <view class="box">
     <view class="img"><image src="../../images/4.jpg"></image></view>
-    <view class="porject">
+        <view class="porject">
       <view class="index">
         <view><image src="../../images/7.png"></image></view>
         <view>工作经历</view>
